@@ -6,7 +6,7 @@ public class HelloController1 {
 @RequestMapping("/hello1")
 	public String display()
 	{
-		return "viewpage1";
+		return "viewpage1";      
 	}	
 }
     
